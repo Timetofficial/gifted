@@ -1,6 +1,6 @@
-const moment = require('moment-timezone');
 const config = require('../set');
-const tzone  = config.TIME_ZONE;
+const tzone = config.TIME_ZONE;
+const moment = require('moment-timezone');
 
 module.exports = async function GroupUpdate(Gifted, { id, participants, action }) {
    try {
