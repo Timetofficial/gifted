@@ -2,14 +2,16 @@
 <h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
 
 - Bot is Safe for Heroku so don't ask more questions
-
+- Added Antivv
 
 <details>
-<summary>NOTICE!!! (TAP TO OPEN)</summary>
+<summary>NOTICE!!! (TAP TO READ)</summary>
 
-- For Panel Deployment You must download the zip from panel sections or from below link else your youtube downloaders wont work on panel.
+- For Panel Deployment You must download the zip from panel sections or from below link .
 
-<a href="https://files.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
+<a href="https://github.com/mouricedevs/gifted/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
+
+- You can add your custom premium/unlimited api key on set.js/.env on app.json(heroku) when deploying to avoid any inconveniences caused by free api key limit.
   
 </details>
 
@@ -63,24 +65,14 @@
 **(B) HOST ON TALKDROVE**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://host.talkdrove.com/auth/signup?ref=53A2DE6D"><img src="https://img.shields.io/badge/TALKDROVE%20SIGNUP-green" alt="TalkDrove" width="150"></a>
+<a href="https://host.talkdrove.com"><img src="https://img.shields.io/badge/TALKDROVE%20SIGNUP-green" alt="TalkDrove" width="150"></a>
 
 <a href="https://youtu.be/YG3-oV2cVj8?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**(C) RENDER DEPLOYMENT**
-<details>
-<summary>TAP TO OPEN</summary>
-<a href="https://dashboard.render.com/signup"><img src="https://img.shields.io/badge/RENDER%20SIGNUP-green" alt="Render" width="150"></a>
-
-<a href="https://youtu.be/TVu8CQPPliM?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="Render Tutorial" width="150"></a>
-</details>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-**(D) KOYEB DEPLOYMENT**
+**(C) KOYEB DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
 <a href="https://app.koyeb.com/auth/signup"><img src="https://img.shields.io/badge/KOYEB%20SIGNUP-purple" alt="Koyeb" width="150"></a>
@@ -90,10 +82,10 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**(E) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
+**(D) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://files.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/mouricedevs/gifted/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
 <a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 
@@ -101,25 +93,6 @@
 </details
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-**(F) RAINHOST (PTERODACTYL) PANEL 🔥 DEPLOYMENT**
-<details>
-<summary>TAP TO OPEN</summary>
-<a href="https://dash.rainxzet.com"><img src="https://img.shields.io/badge/RAINHOST%20SIGNUP-green" alt="Rainhost" width="150"></a>
-<a href="https://files.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
-<a href="https://youtu.be/8YpaGQQN_x4"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-white" alt="Rainhost Tutorial" width="150"></a>
-</details>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-**(G) SCALINGO DEPLOYMENT**
-<details>
-<summary>TAP TO OPEN</summary>
-<a href="https://scalingo.com/"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
-</details
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 
 ### 𝟒. 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 
 
